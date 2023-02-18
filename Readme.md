@@ -4,7 +4,7 @@ Olá e seja bem-vindo ao meu projeto de portfólio de desenvolvimento web! Este 
 Este projeto foi criado usando tecnologias comuns do desenvolvimento web, incluindo HTML e CSS. Ele consiste em uma página web que apresenta informações sobre mim e meus projetos de programação, além de fornecer um meio de contato para potenciais empregadores e clientes.
 
 <h2>Tecnologias Usadas</h2>
-HTML
+HTML <br>
 CSS
 
 <h2>Como Executar o Projeto</h2>
